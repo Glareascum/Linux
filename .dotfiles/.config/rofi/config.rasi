@@ -8,5 +8,7 @@ configuration {
   fullscreen:                     false;
   hide-scrollbar:                 true;
   sidebar-mode:                   false;
-  theme: "~/.config/rofi/themes/dracula.rasi";
-}
+  }
+  @theme "~/.config/rofi/themes/dracula.rasi"
+
+  
